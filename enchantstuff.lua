@@ -1,0 +1,23 @@
+local enchant = {
+  "⚡ Team Up I",
+  "⚡ Team Up II",
+  "⚡ Team Up III",
+  "⚡ Team Up IV",
+  "⚡ Team Up V",
+  "💰 Looter I",
+  "💰 Looter II",
+  "💰 Looter III",
+  "💰 Looter IV",
+  "💰 Looter V",
+  "🫧 Bubbler I",
+  "🫧 Bubbler II",
+  "🫧 Bubbler III",
+  "🫧 Bubbler IV",
+  "🫧 Bubbler V",
+  "✨ Gleaming I",
+  "✨ Gleaming II",
+  "✨ Gleaming III",
+  "🎲 High Roller",
+  "∞ Infinity",
+  "🧲 Magnetism"
+}
