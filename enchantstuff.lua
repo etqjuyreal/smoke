@@ -1,4 +1,4 @@
-local enchant = {
+return {
   "⚡ Team Up I",
   "⚡ Team Up II",
   "⚡ Team Up III",
