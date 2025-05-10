@@ -1,8 +1,7 @@
 -- 👋👋👋👋👋
 -- no this ISNT a logger 😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
 -- smoke gui on top ud ud undetected krmapus
-
-
+-- ONLY THE REAL SMOKE, DONT TRUST RANDOM GITHUB / PASTEBIN WANNABES
 
 
 
